@@ -10,3 +10,7 @@ This is  a test!
  
 #updated this code
 
+## local dev
+
+1.openindex.html in your browser
+
